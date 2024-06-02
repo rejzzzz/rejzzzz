@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rejzzzz 
 - 👀 I’m interested in Blockchains 
-- 🌱 I’m currently learning python and solidity
+- 🌱 I’m currently learning js
 - 📫 How to reach me - officialrejwanul@gmail.com
 
 
