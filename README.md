@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rejzzzz 
-- 👀 I’m interested in Blockchains 
+- 👀 I’m interested in web3
 - 🌱 I’m currently learning js
 - 📫 How to reach me - officialrejwanul@gmail.com
 
