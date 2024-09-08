@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rej0006" target="blank"><img src="https://img.shields.io/twitter/follow/rej0006?logo=twitter&style=for-the-badge" alt="rej0006" /></a> </p>
 
-- 🌱 I’m currently learning **web3js, python**
+- 🌱 I’m currently learning **web3, python**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Web3, Blockchain**
 
 - 📫 How to reach me **officialrejwanul@gmail.com**
 
