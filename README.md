@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web3, python**
 
-- 💬 Ask me about **Web3, Blockchain**
+- 💬 Ask me about **React, Web3, Blockchain, DevOps**
 
 - 📫 How to reach me **officialrejwanul@gmail.com**
 
