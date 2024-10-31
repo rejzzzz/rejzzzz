@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rejzzzz&show_icons=true&locale=en" alt="rejzzzz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejzzzz&" alt="rejzzzz" /></p>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
