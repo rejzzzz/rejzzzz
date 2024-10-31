@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejzzzz&" alt="rejzzzz" /></p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rejzzzz/count.svg)
