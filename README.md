@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rej</h1>
 <h3 align="center">Learning CS</h3>
 
-- 💬 Ask me about **React, Web3, Blockchain, DevOps**
-
 - 📫 How to reach me **officialrejwanul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
