@@ -65,5 +65,5 @@ Final-year CSE student building production-grade backend systems in Go & Python,
 ---
 
 <p align="center">
-  📫 Reach out via <a href="https://rejwanul.dev">rejwanul.dev</a> or <a href="https://www.linkedin.com/in/rejwanul06/">LinkedIn</a>
+  📫 Reach out via <a href="https://rejwanul.dev">rejwanul.dev</a>, <a href="https://www.linkedin.com/in/rejwanul06/">LinkedIn</a>, or <a href="mailto:officialrejwanul@gmail.com">officialrejwanul@gmail.com</a>
 </p>
