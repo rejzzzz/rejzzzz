@@ -15,9 +15,9 @@ Final-year CSE student building production-grade backend systems in Go & Python,
 ### 🚀 About Me
 
 - 🎓 Final-year CSE @ **IIIT Sri City** (Class of 2027)
-- 💼 Currently interning @ **ASOasis Tech** — Go, AWS Lambda, Flutter, OpenAI APIs, RAG pipelines
+- 💼 Currently interning @ **[ASOasis Tech](https://github.com/ASOasis-Tech)** — Go, AWS Lambda, Flutter, OpenAI APIs, RAG pipelines
 - 🧠 Building in AI engineering — LLM fine-tuning, RAG, agentic systems, multilingual TTS
-- 🛠️ Past internship @ **PrimeBeds** — Selenium, React Native
+- 🛠️ Past internship @ **[PrimeBeds](https://github.com/PrimeBeds)** — Selenium, React Native
 - 🌱 Active open-source contributor (gofiber, DuneTrace)
 
 ### ⚙️ Tech Stack
