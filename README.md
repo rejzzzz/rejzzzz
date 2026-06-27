@@ -53,16 +53,6 @@ Final-year CSE student building production-grade backend systems in Go & Python,
   <img src="https://img.shields.io/badge/Achievements-Pull%20Shark%20x2%20·%20Pair%20Extraordinaire-181717?style=flat-square&logo=github" />
 </p>
 
-### 🔍 Personal Project Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejzzzz&repo=NyayMitra&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejzzzz&repo=Reed---Agentic-RAG&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejzzzz&repo=finbro-backend-go&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rejzzzz&repo=dataloom-frontend&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
